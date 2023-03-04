@@ -7,5 +7,5 @@ This project taught us how to get started working in a engineering student team,
 
 Following documents can be found by clicking the links below:
 
-* [Report Document](https://github.com/lukaaitken/SENG-3130-Final-Report/blob/main/Vision%20and%20Scope%20Document.md)
+* [Report Document](https://github.com/lukaaitken/Portable-Ramp/blob/main/Portable%20Ramp%20Report.pdf)
 * [PowerPoint Slides](https://github.com/lukaaitken/Portable-Ramp/blob/main/Portable%20Ramp%20Powerpoint.pdf)
