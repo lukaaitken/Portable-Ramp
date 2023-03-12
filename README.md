@@ -9,4 +9,4 @@ Following documents can be found by clicking the links below:
 
 * [Report Document](https://github.com/lukaaitken/Portable-Ramp/blob/main/Portable%20Ramp%20Report.pdf)
 * [PowerPoint Slides](https://github.com/lukaaitken/Portable-Ramp/blob/main/Portable%20Ramp%20Powerpoint.pdf)
-* [Video of Prototype](ttps://youtu.be/QMQfrdYM06Q)
+* [Video of Prototype](https://youtu.be/QMQfrdYM06Q)
